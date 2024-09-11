@@ -1,6 +1,10 @@
 ## Hi there 👋
-Currently trying to unblock YouTube at my school. I've already had an account on here for a while, you can find it at @javaspence. Unfortunately there is now a heavy ban on phones at my school, therefore I cannot authenticate myself into that account. So this will be used as a school burner.
+I've already had an account on here for a while, you can find it at @javaspence. Unfortunately, they forced everyone to do 2FA, and I lost access to that account (I have no idea where the recovery codes are). That's an oopsie on my part, but most everything on there you can find publicly. 
+Stuff I've done:
+[Banana Clicker](https://javaspence.github.io/Banana-Clicker/)
 
+not much else...
+...but more to come!
 <!--
 **javaspence81/javaspence81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
